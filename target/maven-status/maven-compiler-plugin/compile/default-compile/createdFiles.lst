@@ -1,0 +1,14 @@
+com/cobre/notifications/cobre_notification_service/domain/port/out/NotificationDispatcher.class
+com/cobre/notifications/cobre_notification_service/domain/model/NotificationEvent$NotificationEventBuilder.class
+com/cobre/notifications/cobre_notificacion_service/CobreNotificacionServiceApplication.class
+com/cobre/notifications/adapter/out/file/JsonFileNotificationEventRepository$1.class
+com/cobre/notifications/cobre_notification_service/domain/model/NotificationEvent.class
+com/cobre/notifications/cobre_notification_service/domain/model/DeliveryStatus.class
+com/cobre/notifications/adapter/in/rest/dto/NotificationEventDTO$NotificationEventDTOBuilder.class
+com/cobre/notifications/application/NotificationService.class
+com/cobre/notifications/adapter/in/rest/NotificationController.class
+com/cobre/notifications/adapter/out/webhook/WebhookNotificationDispatcher.class
+com/cobre/notifications/cobre_notification_service/domain/port/in/NotificationUseCase.class
+com/cobre/notifications/adapter/out/file/JsonFileNotificationEventRepository.class
+com/cobre/notifications/adapter/in/rest/dto/NotificationEventDTO.class
+com/cobre/notifications/cobre_notification_service/domain/port/out/NotificationEventRepository.class
